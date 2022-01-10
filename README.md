@@ -1,4 +1,8 @@
 niikhilpatel
-## hello 
+## 
 <br> Instagram - www.instagram.com/niikhilpatel
-<br> Linkedin : https://www.linkedin.com/in/nikhil-patel-33b9a721b/
+<hr>
+<br> Linkedin : www.linkedin.com/in/niikhilpatel
+<hr>
+<br> Fitness Website : https://niikhilpatel.github.io/tri-fitness/
+<hr>
