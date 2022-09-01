@@ -1,3 +1,4 @@
+### <a href="https://niikhilpatel.github.io/nikhilpatel/" target="_blank">Personal Website</a>
 ### <a href="https://www.instagram.com/niikhilpatel" target="_blank">Instagram</a>
 ### <a href="https://www.linkedin.com/in/niikhilpatel/" target="_blank">Linkedin</a>
 ### <a href="https://niikhilpatel.github.io/Education-Website/" target="_blank">Education Website</a>
