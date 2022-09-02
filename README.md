@@ -7,5 +7,5 @@
 ### Mail ID - nikhilpatel26150@gmail.com
 <hr>
 
-![Nikhil's Gtihub Stats](https://github-readme-stats.vercel.app/api?username=niikhilpatel&show_icons=true&theme=radical)
-![Nikhil's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niikhilpatel&show_icons=true&theme=radical)
+<!-- ![Nikhil's Gtihub Stats](https://github-readme-stats.vercel.app/api?username=niikhilpatel&show_icons=true&theme=radical)            -->
+<!-- ![Nikhil's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niikhilpatel&show_icons=true&theme=radical)    -->
